@@ -1,0 +1,16 @@
+{
+"companyName": "wangtaoGraphicsViewer_v1.0",
+"productName": "f(x, y) = x (x - 1) (x + 1) - y^2",
+"productVersion": "0.1",
+"dataUrl": "RedBlueTube.data.unityweb",
+"wasmCodeUrl": "RedBlueTube.wasm.code.unityweb",
+"wasmFrameworkUrl": "RedBlueTube.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.8f1"
+}
